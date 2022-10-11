@@ -1,0 +1,41 @@
+{
+  "listaEmpleados": [
+    {
+      "nombreEmpleado": "weg",
+      "apellidosEmpleado": "wretg",
+      "usuarioEmpleado": "wtregrt",
+      "departamentoEmpleado": "TGSS",
+      "fechaIngresoEmpleado": "2022-10-16T22:00:00.000Z",
+      "modalidadEmpleado": "Presencial",
+      "id": 1
+    },
+    {
+      "nombreEmpleado": "qrfref",
+      "apellidosEmpleado": "erergv rerverv",
+      "usuarioEmpleado": "ervfergver",
+      "departamentoEmpleado": "TGSS",
+      "fechaIngresoEmpleado": "2022-10-02T22:00:00.000Z",
+      "modalidadEmpleado": "Presencial",
+      "id": 2
+    },
+    {
+      "nombreEmpleado": "kil",
+      "apellidosEmpleado": "yuiltui ikik",
+      "usuarioEmpleado": "tuiktuiktuik",
+      "departamentoEmpleado": "TGSS",
+      "fechaIngresoEmpleado": "2022-10-04T22:00:00.000Z",
+      "modalidadEmpleado": "Mixta",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
